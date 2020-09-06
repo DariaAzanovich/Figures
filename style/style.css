@@ -1,0 +1,76 @@
+* {
+  background-color: #333;
+  box-sizing: border-box;
+}
+
+.page {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+
+  color: #9370db;
+}
+
+main {
+  display: block;
+  margin: 70px;
+}
+
+.figure {
+  display: inline-block;
+  height: 100px;
+  margin: 50px;
+
+  background-color: #9370db;
+}
+
+.square {
+  width: 100px;
+}
+
+.rectangle {
+  width: 180px;
+}
+
+.circle-ellipse {
+  border-radius: 50%;
+}
+
+.triangle {
+  background-color: transparent;
+
+  border: 50px solid transparent;
+}
+
+.triangle-arbitrary {
+  border-bottom: 100px solid #9370db;
+  border-left: 140px solid transparent;
+  border-right: 40px solid transparent;
+}
+
+.triangle-bottom {
+  border-bottom: 100px solid #9370db;
+}
+
+.triangle-right {
+  border-right: 100px solid #9370db;
+}
+
+.triangle-left {
+  border-left: 100px solid #9370db;
+}
+
+.trapezoid {
+  background-color: transparent;
+
+  border-bottom: 100px solid #9370db;
+  border-left: 20px solid transparent;
+  border-right: 30px solid transparent;
+}
+
+.parallelogram {
+  transform: skew(20deg);
+}
