@@ -5,18 +5,13 @@
 
 .page {
   display: block;
+  text-align: center;
 }
 
 h1 {
-  text-align: center;
   font-size: 50px;
 
   color: #9370db;
-}
-
-main {
-  display: block;
-  margin: 70px;
 }
 
 .figure {
