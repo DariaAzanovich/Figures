@@ -1,3 +1,5 @@
+https://dariaazanovich.github.io/Figures/.
+
 # Figures
 
 ### Создание фигур, используя CSS.
@@ -12,5 +14,3 @@
 + Равнобедренный треугольник с вершиной справа;
 + Параллелограмм;
 + Трапеция.
-
-https://dariaazanovich.github.io/Figures/.
