@@ -1,4 +1,4 @@
-https://dariaazanovich.github.io/Figures/.
+https://dariaazanovich.github.io/figures/.
 
 # Figures
 
